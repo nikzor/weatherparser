@@ -1,2 +1,2 @@
-# weatherparser
-The simple weather forecast app
+# Weather Bird
+The simple weather forecast app!
